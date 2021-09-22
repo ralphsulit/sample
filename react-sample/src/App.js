@@ -9,6 +9,9 @@ function App() {
         <p>
           this is meeee!!! juju
         </p>
+        <p>
+          this is me jc!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
